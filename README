@@ -1,0 +1,10 @@
+A simple example of i18n and l10n, with the classic hello, world
+
+hello.c  - the canonical program.
+Makefile - the usual.
+po       - the l10n files, including a Spanish subdirectory and a script to install and config Ubuntu's Spanish package.
+README   - this file. Duh.
+t        - a simple test.
+
+
+
