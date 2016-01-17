@@ -20,4 +20,4 @@ msgstr ""
 #: hello.c:12
 #, c-format
 msgid "hello, world\n"
-msgstr ""
+msgstr "Hola, Mundo\n"
