@@ -5,3 +5,8 @@ all: hello.mo
 
 install: hello.mo
 	install -m 644 $< /usr/share/locale/es/LC_MESSAGES
+
+clean:
+	rm *.mo
+
+.PHONY: clean

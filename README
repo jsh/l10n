@@ -4,7 +4,7 @@ hello.c  - the canonical program.
 Makefile - the usual.
 po       - the l10n files, including a Spanish subdirectory and a script to install and config Ubuntu's Spanish package.
 README   - this file. Duh.
+setup    - configure ubuntu for i18n
 t        - a simple test.
-
 
 
